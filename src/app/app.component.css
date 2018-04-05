@@ -5,3 +5,14 @@
 .secondary {
   color: #DE541E;
 }
+
+.day {
+  background: #EAEAEA;
+  border-radius: 5px;
+  color: #223843;
+  margin: 5px;
+}
+
+.btn-success, .btn-primary {
+  width: 100%;
+}
