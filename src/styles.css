@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+@font-face {
+  font-family: Archive;
+  src: url(assets/Archive.otf);
+}
+
+body {
+  background: #223843;
+  color: #EAEAEA;
+}
